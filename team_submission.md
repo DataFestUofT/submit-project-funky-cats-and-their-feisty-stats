@@ -2,4 +2,4 @@ Our group members are Nichole Feghali (nichole.feghali@mail.utoronto.ca), Verna 
 
 An app was created, and is available here: https://funkycatsfeistystats.shinyapps.io/youtubeapp/?fbclid=IwAR3Jk7HpaloVsYd3CLfNwuv4FrPY7kms93x1bsjpt1XMsWP270emgv94l2M
 
-A write-up was created, and is available in these files XXX (add links/file names as appropriate).
+A write-up was created, and is available here: Funky Cats and Their Feisty Stats - Datafest Writeup.pdf
